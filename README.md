@@ -21,3 +21,6 @@ CCTC COLLEGE UNIFORM APP.
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
+
+#Walkthrough
+* https://youtube.com/shorts/Ox2BDJ5V0UA?si=6viPjAXHmM7eHK81
