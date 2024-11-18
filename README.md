@@ -10,17 +10,16 @@ CCTC COLLEGE UNIFORM APP.
 * AppWrite
 * HTML, CSS and JS
 
-# Home Screen
-![Home Screen](assets/images/screenshot/onboarding.png)
+<img src="assets/images/screenshot/onboarding.png">  
 
 # Sign Up Screen
-![Sign Up Screen](assets/images/screenshot/signup.png)
+<img src="assets/images/screenshot/signup.png">  
 
 # Sign In Screen
-![Sign In Screen](assets/images/screenshot/login.png)
+<img src="assets/images/screenshot/login.png">  
 
 # Tabs Screen
-![Tabs Screen](assets/images/screenshot/tabs.png)
+<img src="assets/images/screenshot/tabs.png">  
 
 
 #Walkthrough
