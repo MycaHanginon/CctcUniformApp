@@ -10,6 +10,8 @@ CCTC COLLEGE UNIFORM APP.
 * AppWrite
 * HTML, CSS and JS
 
+  
+# Onboarding Screen
 <img src="assets/images/screenshot/onboarding.png">  
 
 # Sign Up Screen
